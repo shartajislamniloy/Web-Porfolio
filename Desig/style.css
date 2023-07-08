@@ -75,7 +75,23 @@ nav a{
 }
 .x{
     display: flex;
+    justify-content: center;
 }
 .c{
-    border: ;
+    border: 2px solid rgb(238, 238, 244);
+    height: 400px;
+   width: 150px;
+    margin-left: 80px;
+    box-shadow:10px 10px 10px #FFF8F3;
+    border-radius: 5px;
+}
+.b{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 150px;
+     background-image: linear-gradient(rgb(142, 38, 112),rgb(9, 23, 30));
+   margin-top: 10px;
+}
+.z{
+    margin-right: 200px;
 }
