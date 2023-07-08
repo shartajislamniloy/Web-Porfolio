@@ -6,6 +6,7 @@ font-size: 45px;
 font-style: normal;
 font-weight: 800;
 line-height: normal;
+margin-left: 100px;
 }
 nav{
     display: flex;
@@ -33,4 +34,48 @@ nav a{
     width: 70px;
     border: 0px;
     height: 40px;
+    padding: 11px;
+    
+}
+
+.d{
+    background-color: #FFF8F3;
+    background-image: url('../images/header_bg.png');
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: 700px;
+}
+.l{
+    margin-left: 100px;
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    
+}
+.ww{
+    padding: 130px;
+    margin: 150px 210px;
+    background-color: bisque;
+}
+.aa{
+    text-align: center;
+}
+.aaa{
+    text-align: center;
+    font-size: 100%;
+}
+.zz{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.e{
+    border: 2px solid rgb(102, 20, 177);
+    
+}
+.x{
+    display: flex;
+}
+.c{
+    border: ;
 }
